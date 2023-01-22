@@ -4,20 +4,20 @@
 cluster is supported by a line segment, the position, orientation and
 length of which guide where the respective points are placed.
 
-## How it works
-
-![Story](https://github.com/clugen/.github/blob/main/images/algorithm.png?raw=true)
-
 ## Implementations
 
-* [CluGen.jl](https://github.com/clugen/CluGen.jl), a Julia implementation of
-  the *clugen* algorithm.
 * [pyclugen](https://github.com/clugen/pyclugen), a Python implementation of
   the *clugen* algorithm (soon).
 * [clugenr](https://github.com/clugen/clugenr), an R implementation of the
-  *clugen* algorithm (soon).
+  *clugen* algorithm.
+* [CluGen.jl](https://github.com/clugen/CluGen.jl), a Julia implementation of
+  the *clugen* algorithm.
 * [MOCluGen](https://github.com/clugen/MOCluGen), a MATLAB/Octave implementation
   of the *clugen* algorithm (soon).
+
+## How it works
+
+![Story](https://github.com/clugen/.github/blob/main/images/algorithm.png?raw=true)
 
 ## Reference
 

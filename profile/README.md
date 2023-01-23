@@ -7,17 +7,13 @@ length of which guide where the respective points are placed.
 ## Implementations
 
 * [pyclugen](https://github.com/clugen/pyclugen), a Python implementation of
-  the *clugen* algorithm (soon).
+  the *clugen* algorithm.
 * [clugenr](https://github.com/clugen/clugenr), an R implementation of the
   *clugen* algorithm.
 * [CluGen.jl](https://github.com/clugen/CluGen.jl), a Julia implementation of
   the *clugen* algorithm.
 * [MOCluGen](https://github.com/clugen/MOCluGen), a MATLAB/Octave implementation
-  of the *clugen* algorithm (soon).
-
-## How it works
-
-![Story](https://github.com/clugen/.github/blob/main/images/algorithm.png?raw=true)
+  of the *clugen* algorithm.
 
 ## Reference
 
